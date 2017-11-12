@@ -1,3 +1,3 @@
 # lily
 
-To my lovely wife
+To my lovely wife, Lily
