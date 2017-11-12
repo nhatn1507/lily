@@ -1,0 +1,15 @@
+html, body {
+  /*background: linear-gradient(to bottom, #c471f5, #fa71cd);*/
+  
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  
+}
+
+body {
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url(rose.png);
+	background-position: 50% 50%;
+}
